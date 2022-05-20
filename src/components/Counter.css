@@ -1,0 +1,14 @@
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.count{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.start-btn{
+    margin-right: 15px;
+}
